@@ -6,7 +6,7 @@ Mostly about AI enhanced story telling, drawing, and animation.
 
 ## Technologies
 
-* TVpaint animation
+* [TVpaint animation](https://www.tvpaint.com)
 * Blender
 * Torch
 * Python
