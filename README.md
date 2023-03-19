@@ -11,7 +11,7 @@ Mostly about AI enhanced story telling, drawing, and animation.
 
 ## Original Content
 
-* The House of the Flying Kitties (https://www.amazon.com/House-Flying-Kitties-Cid-Bubbles/dp/1542585996/ref=sr_1_1?crid=2HD2CFESQ2QP3&keywords=the+house+of+the+flying+kitties&qid=1679038050&sprefix=the+house+of+the+flying+kitties%2Caps%2C101&sr=8-1)
+* [The House of the Flying Kitties] (https://www.amazon.com/House-Flying-Kitties-Cid-Bubbles/dp/1542585996/ref=sr_1_1?crid=2HD2CFESQ2QP3&keywords=the+house+of+the+flying+kitties&qid=1679038050&sprefix=the+house+of+the+flying+kitties%2Caps%2C101&sr=8-1)
 
 
 ## Contact
