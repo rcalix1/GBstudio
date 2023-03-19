@@ -10,7 +10,7 @@ Mostly about AI enhanced story telling, drawing, and animation.
 * Blender
 * Torch
 * Python
-* Davinci Resolve
+* [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
 ## Original Content
 
