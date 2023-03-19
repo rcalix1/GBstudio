@@ -34,5 +34,6 @@ MIT License. Released as is with no warranty
 * Transformers
 * [Corridor Crew Innovative Pipeline](https://www.youtube.com/watch?v=_9LX9HSQkWo&t=0s)
 * [Hopps Zelda Jurassic Park](https://www.youtube.com/watch?v=pkEQAKmDMa8)
+* Noise reversal (similar images generate simlar noise) - avoids flickering
 * My original dissertation from 2011 :) --> (https://digitalcommons.lsu.edu/gradschool_dissertations/4069/)
 
