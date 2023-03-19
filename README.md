@@ -33,5 +33,6 @@ MIT License. Released as is with no warranty
 * Conditional GANs (Mirza)
 * Transformers
 * [Corridor Crew Innovative Pipeline](https://www.youtube.com/watch?v=_9LX9HSQkWo&t=0s)
+* [Hopps Zelda Jurassic Park](https://www.youtube.com/watch?v=pkEQAKmDMa8)
 * My original dissertation from 2011 :) --> (https://digitalcommons.lsu.edu/gradschool_dissertations/4069/)
 
