@@ -26,11 +26,12 @@ www.rcalix.com
 
 MIT License. Released as is with no warranty
 
-## Readings
+## Readings and links
 
 * Stable Diffusion
 * Giga GANs
 * Conditional GANs (Mirza)
 * Transformers
+* [Corridor Crew Innovative Pipeline](https://www.youtube.com/watch?v=_9LX9HSQkWo&t=0s)
 * My original dissertation from 2011 :) --> (https://digitalcommons.lsu.edu/gradschool_dissertations/4069/)
 
