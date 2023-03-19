@@ -2,6 +2,8 @@
 
 Mostly about AI enhanced story telling, drawing, and animation. 
 
+* [The Studio Website](https://www.galacticbackwater.com)
+
 ## Technologies
 
 * TVpaint animation
