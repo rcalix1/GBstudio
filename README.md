@@ -21,7 +21,8 @@ Mostly about AI enhanced story telling, drawing, and animation.
 
 ## Project Papers
 
-* Ricardo A. Calix, Sri Abhishikth Mallepudi, Bin Chen, Gerald M. Knapp. (2010)  Emotion Recognition in Text for 3-D Facial Expression Rendering. IEEE Transactions on Multimedia, Volume: 12, Issue: 6, October 2010. (https://ieeexplore.ieee.org/abstract/document/5571902)
+* Ricardo A. Calix, Sri Abhishikth Mallepudi, Bin Chen, Gerald M. Knapp. (2010).  Emotion Recognition in Text for 3-D Facial Expression Rendering. IEEE Transactions on Multimedia, Volume: 12, Issue: 6, October 2010. (https://ieeexplore.ieee.org/abstract/document/5571902)
+* [On Amazon](https://www.amazon.com/Automated-Semantic-Understanding-Emotions-Writing/dp/1542374626/ref=sr_1_4?qid=1679988206&refinements=p_27%3ARicardo+A+Calix&s=books&sr=1-4&text=Ricardo+A+Calix)
 * My original dissertation from 2011 :) --> (https://digitalcommons.lsu.edu/gradschool_dissertations/4069/)
 
 ## Readings
