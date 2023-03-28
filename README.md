@@ -30,7 +30,7 @@ MIT License. Released as is with no warranty
 ## Readings and links
 
 * Stable Diffusion
-* Giga GANs
+* Giga GANs (https://mingukkang.github.io/GigaGAN/)
 * Conditional GANs (Mirza)
 * Transformers
 * [Corridor Crew Innovative Pipeline](https://www.youtube.com/watch?v=_9LX9HSQkWo&t=0s)
