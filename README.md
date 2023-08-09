@@ -1,6 +1,6 @@
 # Galactic Backwater Media
 
-Research on content and interaction, Click and ad bitting. 
+Research on content and interaction, click and ad bidding. 
 
 ## Galactic Backwater Studio
 
