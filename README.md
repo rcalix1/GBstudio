@@ -1,3 +1,7 @@
+# Galactic Backwater Media
+
+Research on content and interaction, Click and ad bitting. 
+
 ## Galactic Backwater Studio
 
 Mostly about AI enhanced story telling, drawing, and animation. 
