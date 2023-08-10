@@ -1,3 +1,4 @@
 ## karate cats
 
-* https://rcalix1.github.io/blogPosts/karate_cats/karate_cats.htm
+
+* https://www.galacticbackwater.com/blogPosts/karate_cats/karate_cats.htm
