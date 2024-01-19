@@ -1,7 +1,6 @@
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
 }
 
 /* Create four equal columns that sits next to each other */
@@ -11,7 +10,6 @@
 }
 
 .column img {
-  margin-top: 8px;
   vertical-align: middle;
   width: 100%;
 }
@@ -38,9 +36,11 @@ a:hover   { color:#AA0000; text-decoration: underline; }
 a:active  { color:#FF0000; text-decoration: underline; }
 
 body {
-    margin-left:   10%;
-    margin-right:  10%;
-    margin-top:    5em;
+
+  /* This is a single-line comment */
+    margin-left:   5%;
+    margin-right:  5%;
+    margin-top:    2em;
     margin-bottom: 5em;
     font-family: "Lucida Grande", "Verdana", "Arial", sans-serif;
     font-size: small;
