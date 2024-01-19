@@ -2,9 +2,9 @@
 
 Research on content and interaction, recommender systems, filtering, emotion response, click and ad bidding. 
 
-## Galactic Backwater Studio 
+## Galactic Backwater Hub and Studio 
 
-* [The Studio Website](https://www.galacticbackwater.com)
+* [The Hub and Studio Website](https://www.galacticbackwater.com)
 
 ## Technologies
 
