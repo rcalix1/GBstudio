@@ -1,15 +1,15 @@
 # Galactic Backwater Media
 
-Research on content and interaction, click and ad bidding. 
+Research on content and interaction, recommender systems, filtering, emotion response, click and ad bidding. 
 
-## Galactic Backwater Studio
-
-Mostly about AI enhanced story telling, drawing, and animation. 
+## Galactic Backwater Studio 
 
 * [The Studio Website](https://www.galacticbackwater.com)
 
 ## Technologies
 
+* Recommender Systems
+* SVD
 * [TVpaint animation](https://www.tvpaint.com)
 * Blender
 * Torch
@@ -21,8 +21,6 @@ Mostly about AI enhanced story telling, drawing, and animation.
 * [The House of the Flying Kitties](https://www.amazon.com/House-Flying-Kitties-Cid-Bubbles/dp/1542585996/ref=sr_1_1?crid=2HD2CFESQ2QP3&keywords=the+house+of+the+flying+kitties&qid=1679038050&sprefix=the+house+of+the+flying+kitties%2Caps%2C101&sr=8-1)
 
 
-
-
 ## Project Papers
 
 * Ricardo A. Calix, Sri Abhishikth Mallepudi, Bin Chen, Gerald M. Knapp. (2010).  Emotion Recognition in Text for 3-D Facial Expression Rendering. IEEE Transactions on Multimedia, Volume: 12, Issue: 6, October 2010. (https://ieeexplore.ieee.org/abstract/document/5571902)
@@ -31,6 +29,9 @@ Mostly about AI enhanced story telling, drawing, and animation.
 
 ## Readings
 
+* Recommender systems
+* filtering
+* SVD
 * Stable Diffusion
 * Giga GANs (https://mingukkang.github.io/GigaGAN/)
 * Conditional GANs (Mirza)
@@ -39,6 +40,7 @@ Mostly about AI enhanced story telling, drawing, and animation.
 ## Links
 
 
+* zipf
 * [Corridor Crew Innovative Pipeline](https://www.youtube.com/watch?v=_9LX9HSQkWo&t=0s)
 * [Hopps Zelda Jurassic Park](https://www.youtube.com/watch?v=pkEQAKmDMa8)
 * Noise reversal (similar images generate simlar noise) - avoids flickering
